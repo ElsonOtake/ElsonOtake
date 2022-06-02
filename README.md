@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ElsonOtake/ElsonOtake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Elson Otake, 
 
-Here are some ideas to get you started:
+Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍💻 I love coding and learning new tools. Marathon runner in his spare time. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ES6
+- 🌱 I’m currently learning use of Webpack
+- 👯 I’m looking to collaborate on Open Source projects
+- 🤔 I’m looking for help with debugging
+- 💬 Ask me about The Big Bang Theory
+- 📫 How to reach me: [@elsonotake](https://twitter.com/elsonotake)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: it's no use running if you don't know where you're going
+

@@ -2,7 +2,7 @@
 
 ### I'm Elson Otake, 
 
-Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍💻 I love coding and learning new tools. Marathon runner in his spare time. 
+Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍💻 I love coding and learning new tools. Marathon runner in my spare time. 
 
 - 🔭 I’m currently working on ES6
 - 🌱 I’m currently learning use of Webpack

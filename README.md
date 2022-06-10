@@ -11,5 +11,5 @@ Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍�
 - 💬 Ask me about The Big Bang Theory
 - 📫 How to reach me: [@elsonotake](https://twitter.com/elsonotake)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: it's no use running if you don't know where you're going
+- ⚡ Motto: it's no use running if you don't know where you're going
 

@@ -4,8 +4,8 @@
 
 Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍💻 I love coding and learning new tools. Marathon runner in my spare time. 
 
-- 🔭 I’m currently working on Covid-19 in South America
-- 🌱 I’m currently learning use of React/Redux
+- 🔭 I’m currently working on Databases
+- 🌱 I’m currently learning use of SQL
 - 👯 I’m looking to collaborate on Open Source projects
 - 🤔 I’m looking for help with debugging
 - 💬 Ask me about The Big Bang Theory

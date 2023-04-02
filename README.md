@@ -27,7 +27,7 @@
 
 Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍💻 I love coding and learning new tools. I'm a marathon runner in my spare time. 
 
-- 🔭 Currently creating my family tree using Ruby on Rail and React
+- 🔭 Currently studying new features in Rails 7
 - 🌱 Currently reviewing data structures
 - 👯 Looking to collaborate on Open Source projects
 - 🤔 Looking for help with integration tests
@@ -46,17 +46,34 @@ Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍�
   ![RubyonRails](https://img.shields.io/badge/-RubyonRails-333333?style=flat&logo=rubyonrails)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma)
+  ![Tailwind-CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
   ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![RSwag](https://img.shields.io/badge/-RSwag-333333?style=flat&logo=swagger)
+  ![JWT](https://img.shields.io/badge/-json_web_tokens-333333?style=flat&logo=json-web-tokens)
+  ![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-333333?style=flat&logo=rabbitmq)
+  ![Jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=jupyter)
+  ![Tableau](https://img.shields.io/badge/-tableau-333333?style=flat&logo=tableau)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+  ![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio)

@@ -8,8 +8,11 @@
 <a href="https://github.com/elsonotake">
   <img align="left" alt="Elson's Github" src="https://img.shields.io/badge/-Github-6460aa?style=flat-square&logo=Github&logoColor=white" />
 </a>
-<a href="https://angel.co/u/elsonotake">
-  <img align="left" alt="Elson's Angel List" src="https://img.shields.io/badge/-Angel-cc004c?style=flat-square&logo=AngelList&logoColor=white" />
+<a href="https://wellfound.com/u/elsonotake">
+  <img align="left" alt="Elson's Wellfound" src="https://img.shields.io/badge/-Wellfound-cc004c?style=flat-square&logo=AngelList&logoColor=white" />
+</a>
+<a href="https://leetcode.com/ElsonOtake/)">
+  <img align="left" alt="Elson's LeetCode" src="https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/elsonotake">
   <img align="left" alt="Elson's Hackerrank" src="https://img.shields.io/badge/-Hackerrank-0db14b?style=flat-square&logo=Hackerrank&logoColor=white" />

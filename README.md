@@ -30,7 +30,7 @@
 
 Bachelor in Applied Mathematics from the University of São Paulo. 👨🏻‍💻 I love coding and learning new tools. I'm a marathon runner in my spare time. 
 
-- 🔭 Currently studying new features in Rails 7
+- 🔭 Currently studying Rails gem creation
 - 🌱 Currently reviewing data structures
 - 👯 Looking to collaborate on Open Source projects
 - 🤔 Looking for help with integration tests

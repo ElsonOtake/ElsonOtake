@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Elson Akio Otake SOFTWARES LTDA (EAORIGAMI)
+### Elson Akio Otake Softwares Ltda (EAOrigami)
 
 ### I'm Elson Otake, 
 

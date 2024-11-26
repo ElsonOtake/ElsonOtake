@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Elson Akio Otake - Softwares Ltda (EAOrigami)
-
 ### I'm Elson Otake, 
 
 <a href="https://www.linkedin.com/in/elsonotake">
